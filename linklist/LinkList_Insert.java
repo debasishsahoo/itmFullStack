@@ -39,13 +39,6 @@ public class LinkList_Insert {
 		System.out.println(newNode.data + " inserted at the End");
 	}
 
-	
-	
-	
-	
-	
-	
-	
 	public void insertAfter(int n, int data) {
 		int size = calcSize(head);
 		int pos=n;
